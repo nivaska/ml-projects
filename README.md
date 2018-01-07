@@ -1,4 +1,4 @@
-###ML projects in python
+### ML projects in python
 
 1) Bottom up (Agglomerative clustering) - using Naive Algorithm  
 &nbsp;&nbsp;Linkage - Single, Complete, Average  
