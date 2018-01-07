@@ -1,5 +1,5 @@
-ML projects in python
+###ML projects in python
 
-1) Bottom up (Agglomerative clustering) - using Naive Algorithm
-    Linkage - Single, Complete, Average
-    Complexity - O(n^3)
+1) Bottom up (Agglomerative clustering) - using Naive Algorithm  
+&nbsp;&nbsp;Linkage - Single, Complete, Average  
+&nbsp;&nbsp;Complexity - O(n^3)
